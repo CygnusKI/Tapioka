@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tapi",
+"productVersion": "0.1",
+"dataUrl": "Tapiokaa.data.unityweb",
+"wasmCodeUrl": "Tapiokaa.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tapiokaa.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.0f1"
+}
